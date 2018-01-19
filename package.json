@@ -1,0 +1,25 @@
+{
+  "name": "install-chalk",
+  "version": "1.0.0",
+  "description": "we are installing chalk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/swiftsimon/W1D5.git"
+  },
+  "keywords": [
+    "chalk"
+  ],
+  "author": "simon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/swiftsimon/W1D5/issues"
+  },
+  "homepage": "https://github.com/swiftsimon/W1D5#readme",
+  "dependencies": {
+    "chalk": "^2.3.0"
+  }
+}
